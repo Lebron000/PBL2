@@ -1,0 +1,11 @@
+0;MP12;titanic;A1;55000;12/11/23 21:55;7H30 ;luuviethoang;MNV01
+1;MP12;titanic;A3;55000;12/11/23 21:55;7H30 ;luuviethoang;MNV01
+0;luu van a;titanic;H1;55000;12/11/23 21:59;7H30 ;luuviethoang;MNV01
+0;luu van b;titanic;H1;55000;12/11/23 22:00;7H30 ;luuviethoang;MNV01
+1;luu van b;titanic;H2;55000;12/11/23 22:00;7H30 ;luuviethoang;MNV01
+0;luu van c;titanic;H2;55000;12/11/23 22:02;7H30 ;luuviethoang;MNV01
+1;luu van c;titanic;H3;55000;12/11/23 22:02;7H30 ;luuviethoang;MNV01
+0;lmao;titanic;H1;55000;21/11/2023 22:22;7H30 ;luuviethoang;MNV01
+0;lmao;titanic;H1;55000;21/11/2023 22:22;7H30 ;minhhoang;MNV02
+0;lmao;titanic;H1;55000;22/11/2023 22:22;7H30 ;luuviethoang;MNV01
+0;lmao;titanic;H1;55000;22/11/2023 22:22;7H30 ;minhhoang;MNV02
