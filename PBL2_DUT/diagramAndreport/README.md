@@ -3,4 +3,4 @@ PBL2_DUT
 Movie ticket booking management
 
 MEMBER :
-Lưu Việt Hoàng Trần Ngọc Minh Hoàng Đỗ Long Nghĩa
+Nguyễn Nhật Huy - Võ Nguyên Chánh
