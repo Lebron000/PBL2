@@ -1,2 +1,2 @@
-MNV01;luuviethoang;20000
-MNV02;tranngocminhhoang;30000
+MNV01;nguyennhathuy;20000
+MNV02;vonguyenchanh;30000
