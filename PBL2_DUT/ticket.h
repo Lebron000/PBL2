@@ -3,7 +3,7 @@
 #include <fstream>
 #include <string>
 #include "Staff.h"
-//create by : tran ngoc minh hoang
+
 class ticket {
     private:
     string TicketId;// id
