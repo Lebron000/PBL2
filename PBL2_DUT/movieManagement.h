@@ -1,7 +1,7 @@
 #pragma once
 // #ifndef MOVIE_MANAGEMENT_H
 // #define MOVIE_MANAGEMENT_H
-//create by luu viet hoang
+
 #include "list.h"
 #include <iostream>
 #include "movie.h"
